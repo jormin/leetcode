@@ -1,3 +1,3 @@
 ## About
 
-Leet Code 学习
+LeetCode 学习
