@@ -30,3 +30,16 @@ package problem
 // 来源：力扣（LeetCode）
 // 链接：https://leetcode-cn.com/problems/longest-substring-without-repeating-characters
 // 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+
+// 无重复字符的最长子串
+func lengthOfLongestSubstring(s string) int {
+	if len(s) == 0 {
+		return 0
+	}
+	bitSet := [5 * 104]bool{}
+	left, right, res := 0, 0, 0
+	for left < len(s) {
+
+	}
+	return 0
+}
