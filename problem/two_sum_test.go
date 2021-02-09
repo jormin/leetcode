@@ -5,7 +5,8 @@ import (
 	"testing"
 )
 
-func Test_twoSum(t *testing.T) {
+// 测试两数之和
+func TestTwoSum(t *testing.T) {
 	type args struct {
 		nums   []int
 		target int
