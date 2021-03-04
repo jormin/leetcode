@@ -47,6 +47,9 @@ func TestTwoSum(t *testing.T) {
 				if got := twoSum(tt.args.nums, tt.args.target); !reflect.DeepEqual(got, tt.want) {
 					t.Errorf("twoSum() = %v, want %v", got, tt.want)
 				}
+				if got := twoSum2(tt.args.nums, tt.args.target); !reflect.DeepEqual(got, tt.want) {
+					t.Errorf("twoSum() = %v, want %v", got, tt.want)
+				}
 			},
 		)
 	}
