@@ -42,3 +42,15 @@ func twoSum(nums []int, target int) []int {
 	}
 	return nil
 }
+
+// 暴力枚举，时间复杂度为O(n^2)，不推荐
+func twoSum2(nums []int, target int) []int {
+	for i, num := range nums {
+		for j := i + 1; j < len(nums); j++ {
+			if num+nums[j] == target {
+				return []int{i, j}
+			}
+		}
+	}
+	return nil
+}
