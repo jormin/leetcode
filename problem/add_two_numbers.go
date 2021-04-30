@@ -31,29 +31,25 @@ import "fmt"
 // 链接：https://leetcode-cn.com/problems/add-two-numbers
 // 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 
-// 链表节点
-type ListNode struct {
+// 链表结点
+type LinkNode struct {
 	Val  int
-	Next *ListNode
+	Next *LinkNode
 }
 
-// 打印链表信息
-func (l *ListNode) Info() string {
-	var nums []int
-	current := l
-	for {
-		nums = append(nums, current.Val)
-		if current.Next == nil {
-			break
-		}
-		current = current.Next
+// 字符串打印
+func (l *LinkNode) String() string {
+	vals := []int{}
+	for l != nil {
+		vals = append(vals, l.Val)
+		l = l.Next
 	}
-	return fmt.Sprintf("%v", nums)
+	return fmt.Sprintf("%v", vals)
 }
 
 // 两数相加
-func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
-	res := &ListNode{
+func addTwoNumbers(l1 *LinkNode, l2 *LinkNode) *LinkNode {
+	res := &LinkNode{
 		Val:  0,
 		Next: nil,
 	}
@@ -71,7 +67,7 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 			n2 = l2.Val
 			l2 = l2.Next
 		}
-		current.Next = &ListNode{
+		current.Next = &LinkNode{
 			Val:  (n1 + n2 + carry) % 10,
 			Next: nil,
 		}
