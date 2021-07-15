@@ -1,3 +1,3 @@
-module gitlab.wcxst.com/jormin/leetcode
+module github.com/jormin/leetcode
 
 go 1.15
