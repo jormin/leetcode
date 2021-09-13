@@ -23,7 +23,7 @@ LeetCode 学习 项目
 
 - [x] [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion)
 
-- [ ] [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer)
+- [x] [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer)
 
 - [ ] [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi)
 
