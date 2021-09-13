@@ -1,8 +1,15 @@
-## About
+LeetCode
+============
 
-LeetCode 学习
+[![Build Status](https://github.com/jormin/leetcode/workflows/test/badge.svg?branch=master)](https://github.com/jormin/leetcode/actions?query=workflow%3Atest)
+[![Codecov](https://codecov.io/gh/jormin/leetcode/branch/master/graph/badge.svg?)](https://codecov.io/gh/jormin/leetcode)
+[![Go Report Card](https://goreportcard.com/badge/github.com/jormin/leetcode)](https://goreportcard.com/report/github.com/jormin/leetcode)
+[![](https://img.shields.io/badge/version-v1.0.0-success.svg)](https://github.com/jormin/leetcode)
 
-## 题目
+LeetCode 学习 项目
+
+题目
+-----
 
 - [x] [1. 两数之和](https://leetcode-cn.com/problems/two-sum)
 
@@ -10,9 +17,9 @@ LeetCode 学习
 
 - [x] [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)
 
-- [ ] [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays)
+- [x] [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays)
 
-- [ ] [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring)
+- [x] [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring)
 
 - [ ] [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion)
 

@@ -1,10 +1,5 @@
 package problem
 
-import (
-	"fmt"
-	"strings"
-)
-
 // 给你一个字符串 s，找到 s 中最长的回文子串。
 // 
 // 示例 1：
@@ -34,40 +29,33 @@ import (
 // 链接：https://leetcode-cn.com/problems/longest-palindromic-substring
 // 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 
-// longestPalindrome 最长回文子串
-func longestPalindrome(str string) string {
+// longestPalindromic 最长回文子串
+func longestPalindromic(str string) string {
 	if str == "" {
 		return ""
 	}
-	m := map[string][]int{}
-	maxLength := 0
-	res := string(str[0])
-	for _, c := range str {
-		s := string(c)
-		if _, ok := m[s]; ok {
-			continue
-		}
-		count := strings.Count(str, s)
-		if count <= 1 {
-			continue
-		}
-		fi := strings.Index(str, s)
-		m[s] = []int{fi}
-		for i := fi + 1; i < len(str); i++ {
-			if string(str[i]) == s {
-				m[s] = append(m[s], i)
-				if i-m[s][0] <= maxLength {
-					continue
-				}
-				maxLength = i - m[s][0]
-				tmp := str[m[s][0] : i+1]
-				if strings.Count(tmp, s) == len(tmp) {
-					res = tmp
-				}
-				break
+	var res string
+	m := 0
+	l := len(str)
+	for i := 0; i < l; i++ {
+		for j := i + 1; j <= l; j++ {
+			s := str[i:j]
+			if isPalindromic(s) && len(s) > m {
+				m = len(s)
+				res = s
 			}
 		}
-		fmt.Println(s, res)
 	}
 	return res
+}
+
+// isPalindromic 是否是回文串
+func isPalindromic(str string) bool {
+	l := len(str)
+	for i := 0; i < l/2; i++ {
+		if str[i] != str[l-i-1] {
+			return false
+		}
+	}
+	return true
 }
