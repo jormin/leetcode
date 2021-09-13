@@ -56,7 +56,7 @@ func (s IntSlice) Swap(i, j int) {
 	s[i], s[j] = s[j], s[i]
 }
 
-// 寻找两个正序数组的中位数
+// findMedianSortedArrays 寻找两个正序数组的中位数
 func findMedianSortedArrays(nums1 []int, nums2 []int) float64 {
 	if len(nums1) == 0 && len(nums2) == 0 {
 		return 0

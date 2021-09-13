@@ -31,13 +31,13 @@ import "fmt"
 // 链接：https://leetcode-cn.com/problems/add-two-numbers
 // 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 
-// 链表结点
+// LinkNode 链表结点
 type LinkNode struct {
 	Val  int
 	Next *LinkNode
 }
 
-// 字符串打印
+// String 字符串打印
 func (l *LinkNode) String() string {
 	vals := []int{}
 	for l != nil {
@@ -47,7 +47,7 @@ func (l *LinkNode) String() string {
 	return fmt.Sprintf("%v", vals)
 }
 
-// 两数相加
+// addTwoNumbers 两数相加
 func addTwoNumbers(l1 *LinkNode, l2 *LinkNode) *LinkNode {
 	res := &LinkNode{
 		Val:  0,

@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-// 测试两数之和
+// TestTwoSum 测试两数之和
 func TestTwoSum(t *testing.T) {
 	type args struct {
 		nums   []int

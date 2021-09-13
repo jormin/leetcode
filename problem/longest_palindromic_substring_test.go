@@ -2,7 +2,7 @@ package problem
 
 import "testing"
 
-// 测试最长回文子串
+// TestLongestPalindrome 测试最长回文子串
 func TestLongestPalindrome(t *testing.T) {
 	type args struct {
 		s string

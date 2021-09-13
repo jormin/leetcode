@@ -30,7 +30,7 @@ package problem
 // 链接：https://leetcode-cn.com/problems/two-sum
 // 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 
-// 两数之和
+// twoSum 两数之和
 func twoSum(nums []int, target int) []int {
 	var m = make(map[int]int)
 	for i, num := range nums {
@@ -43,7 +43,7 @@ func twoSum(nums []int, target int) []int {
 	return nil
 }
 
-// 暴力枚举，时间复杂度为O(n^2)，不推荐
+// twoSum2 暴力枚举，时间复杂度为O(n^2)，不推荐
 func twoSum2(nums []int, target int) []int {
 	for i, num := range nums {
 		for j := i + 1; j < len(nums); j++ {

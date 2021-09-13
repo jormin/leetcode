@@ -2,7 +2,7 @@ package problem
 
 import "testing"
 
-// 测试寻找两个正序数组的中位数
+// TestFindMedianSortedArrays 测试寻找两个正序数组的中位数
 func TestFindMedianSortedArrays(t *testing.T) {
 	type args struct {
 		nums1 []int

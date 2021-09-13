@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-// 测试两数相加
+// TestAddTwoNumbers 测试两数相加
 func TestAddTwoNumbers(t *testing.T) {
 	type args struct {
 		l1 *LinkNode
@@ -51,7 +51,7 @@ func TestAddTwoNumbers(t *testing.T) {
 	}
 }
 
-// 生成链表
+// makeLinkNode 生成链表
 func makeLinkNode(nums []int) *LinkNode {
 	l := &LinkNode{
 		Val:  0,

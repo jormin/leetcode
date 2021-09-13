@@ -2,7 +2,7 @@ package problem
 
 import "testing"
 
-// 测试无重复字符的最长子串
+// TestLengthOfLongestSubstring 测试无重复字符的最长子串
 func TestLengthOfLongestSubstring(t *testing.T) {
 	type args struct {
 		s string
