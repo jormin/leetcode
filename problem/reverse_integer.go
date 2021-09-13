@@ -50,7 +50,7 @@ func reverse(x int) int {
 	}
 	res, _ := strconv.Atoi(strings.Join(arr, ""))
 	res *= flag
-	if res < -1*1<<31 || res > 1<<31+1 {
+	if res < -1*1<<31 || res > 1<<31-1 {
 		res = 0
 	}
 	return res
