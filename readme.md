@@ -27,7 +27,7 @@ LeetCode 学习 项目
 
 - [x] [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi)
 
-- [ ] [9. 回文数](https://leetcode-cn.com/problems/palindrome-number)
+- [x] [9. 回文数](https://leetcode-cn.com/problems/palindrome-number)
 
 - [ ] [10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching)
 
