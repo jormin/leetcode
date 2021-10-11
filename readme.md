@@ -45,7 +45,7 @@ LeetCode 学习 项目
 
 - [x] [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)
 
-- [ ] [18. 四数之和](https://leetcode-cn.com/problems/4sum)
+- [x] [18. 四数之和](https://leetcode-cn.com/problems/4sum)
 
 - [ ] [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)
 
