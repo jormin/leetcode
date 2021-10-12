@@ -49,7 +49,7 @@ LeetCode 学习 项目
 
 - [x] [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)
 
-- [ ] [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses)
+- [x] [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses)
 
 - [ ] [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists)
 
