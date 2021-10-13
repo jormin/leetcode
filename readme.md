@@ -57,7 +57,7 @@ LeetCode 学习 项目
 
 - [x] [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists)
 
-- [ ] [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs)
+- [x] [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs)
 
 - [ ] [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)
 
