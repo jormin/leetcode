@@ -53,7 +53,7 @@ LeetCode 学习 项目
 
 - [x] [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists)
 
-- [ ] [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses)
+- [x] [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses)
 
 - [ ] [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists)
 
