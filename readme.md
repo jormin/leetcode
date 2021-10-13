@@ -55,7 +55,7 @@ LeetCode 学习 项目
 
 - [x] [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses)
 
-- [ ] [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists)
+- [x] [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists)
 
 - [ ] [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs)
 
