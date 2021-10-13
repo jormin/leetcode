@@ -51,7 +51,7 @@ LeetCode 学习 项目
 
 - [x] [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses)
 
-- [ ] [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists)
+- [x] [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists)
 
 - [ ] [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses)
 
