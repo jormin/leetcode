@@ -115,7 +115,7 @@ LeetCode 学习 项目
 
 - [ ] [52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii)
 
-- [ ] [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray)
+- [x] [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray)
 
 - [ ] [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix)
 
