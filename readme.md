@@ -443,7 +443,7 @@ LeetCode 学习 项目
 
 - [ ] [216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii)
 
-- [ ] [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate)
+- [x] [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate)
 
 - [ ] [218. 天际线问题](https://leetcode-cn.com/problems/the-skyline-problem)
 
