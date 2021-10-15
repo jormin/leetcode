@@ -301,7 +301,7 @@ LeetCode 学习 项目
 
 - [ ] [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal)
 
-- [ ] [146. LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache)
+- [x] [146. LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache)
 
 - [ ] [147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list)
 
