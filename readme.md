@@ -185,7 +185,7 @@ LeetCode 学习 项目
 
 - [ ] [87. 扰乱字符串](https://leetcode-cn.com/problems/scramble-string)
 
-- [ ] [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array)
+- [x] [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array)
 
 - [ ] [89. 格雷编码](https://leetcode-cn.com/problems/gray-code)
 
