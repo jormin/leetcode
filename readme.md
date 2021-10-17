@@ -709,7 +709,7 @@ LeetCode 学习 项目
 
 - [ ] [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays)
 
-- [ ] [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii)
+- [x] [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii)
 
 - [ ] [351. 安卓系统手势解锁](https://leetcode-cn.com/problems/android-unlock-patterns)
 
