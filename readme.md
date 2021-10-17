@@ -251,7 +251,7 @@ LeetCode 学习 项目
 
 - [ ] [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle)
 
-- [ ] [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)
+- [x] [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)
 
 - [ ] [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii)
 
