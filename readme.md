@@ -1141,7 +1141,7 @@ LeetCode 学习 项目
 
 - [ ] [565. 数组嵌套](https://leetcode-cn.com/problems/array-nesting)
 
-- [ ] [566. 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix)
+- [x] [566. 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix)
 
 - [ ] [567. 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string)
 
