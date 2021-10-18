@@ -245,7 +245,7 @@ LeetCode 学习 项目
 
 - [ ] [117. 填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii)
 
-- [ ] [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle)
+- [x] [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle)
 
 - [ ] [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii)
 
