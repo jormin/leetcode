@@ -155,7 +155,7 @@ LeetCode 学习 项目
 
 - [ ] [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance)
 
-- [ ] [73. 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes)
+- [x] [73. 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes)
 
 - [ ] [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix)
 
