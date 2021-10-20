@@ -33,6 +33,15 @@ func TestThreeSum(t *testing.T) {
 			args: args{nums: []int{0}},
 			want: nil,
 		},
+		{
+			name: "04",
+			args: args{nums: []int{-1, 0, 1, 1, 2, 2, -1, -4}},
+			want: [][]int{
+				{-4, 2, 2},
+				{-1, -1, 2},
+				{-1, 0, 1},
+			},
+		},
 	}
 	for _, tt := range tests {
 		t.Run(
