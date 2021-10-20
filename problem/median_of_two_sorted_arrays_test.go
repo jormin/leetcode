@@ -53,6 +53,14 @@ func TestFindMedianSortedArrays(t *testing.T) {
 			},
 			want: 2.00000,
 		},
+		{
+			name: "06",
+			args: args{
+				nums1: []int{},
+				nums2: []int{},
+			},
+			want: 0,
+		},
 	}
 	for _, tt := range tests {
 		t.Run(
