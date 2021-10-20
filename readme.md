@@ -493,7 +493,7 @@ LeetCode 学习 项目
 
 - [ ] [241. 为运算表达式设计优先级](https://leetcode-cn.com/problems/different-ways-to-add-parentheses)
 
-- [ ] [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram)
+- [x] [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram)
 
 - [ ] [243. 最短单词距离](https://leetcode-cn.com/problems/shortest-word-distance)
 
