@@ -58,7 +58,7 @@ func TestGenerateParenthesis(t *testing.T) {
 			want: []string{"()"},
 		},
 		{
-			name: "02",
+			name: "03",
 			args: args{n: 0},
 			want: nil,
 		},
