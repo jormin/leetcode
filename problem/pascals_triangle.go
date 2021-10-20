@@ -10,7 +10,7 @@ package problem
 // 示例2:
 // 输入: numRows = 1
 // 输出: [[1]]
-// 
+//
 // 提示:
 // 1 <= numRows <= 30
 //
