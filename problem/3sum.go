@@ -39,7 +39,7 @@ func threeSum(nums []int) [][]int {
 	for i, v := range nums {
 		// 如果元素大于0，则后面的元素都大于0，和不可能为0
 		if v > 0 {
-			return res
+			break
 		}
 		// 去重重复元素
 		if i > 0 && v == nums[i-1] {
