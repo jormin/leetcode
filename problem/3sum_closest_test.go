@@ -29,6 +29,22 @@ func TestThreeSumClosest(t *testing.T) {
 			},
 			want: -101,
 		},
+		{
+			name: "03",
+			args: args{
+				nums:   []int{-1},
+				target: 1,
+			},
+			want: 0,
+		},
+		{
+			name: "04",
+			args: args{
+				nums:   []int{-100, -100, -98, -2, -1},
+				target: -101,
+			},
+			want: -101,
+		},
 	}
 	for _, tt := range tests {
 		t.Run(
