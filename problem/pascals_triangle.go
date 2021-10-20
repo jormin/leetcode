@@ -24,7 +24,7 @@ func generate(numRows int) [][]int {
 		return nil
 	}
 	res := make([][]int, numRows)
-	for i, _ := range res {
+	for i := range res {
 		res[i] = make([]int, i+1)
 		res[i][0] = 1
 		res[i][i] = 1
