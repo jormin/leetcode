@@ -40,7 +40,7 @@ func TestIsValid(t *testing.T) {
 		{
 			name: "06",
 			args: args{s: "{[}"},
-			want: true,
+			want: false,
 		},
 	}
 	for _, tt := range tests {
