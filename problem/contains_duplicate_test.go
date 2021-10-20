@@ -14,17 +14,17 @@ func TestContainsDuplicate(t *testing.T) {
 	}{
 		{
 			name: "01",
-			args: args{nums: []int{1,2,3,1}},
+			args: args{nums: []int{1, 2, 3, 1}},
 			want: true,
 		},
 		{
 			name: "02",
-			args: args{nums: []int{1,2,3,4}},
+			args: args{nums: []int{1, 2, 3, 4}},
 			want: false,
 		},
 		{
 			name: "03",
-			args: args{nums: []int{1,1,1,3,3,4,3,2,4,2}},
+			args: args{nums: []int{1, 1, 1, 3, 3, 4, 3, 2, 4, 2}},
 			want: true,
 		},
 	}
