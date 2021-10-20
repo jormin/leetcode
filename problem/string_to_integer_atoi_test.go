@@ -54,6 +54,11 @@ func TestMyAtoi(t *testing.T) {
 			args: args{s: "2147483648"},
 			want: 2147483647,
 		},
+		{
+			name: "09",
+			args: args{s: ""},
+			want: 0,
+		},
 	}
 	for _, tt := range tests {
 		t.Run(
