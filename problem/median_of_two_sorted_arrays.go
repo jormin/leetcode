@@ -42,6 +42,7 @@ import (
 // 链接：https://leetcode-cn.com/problems/median-of-two-sorted-arrays
 // 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 
+// IntSlice 整形切片
 type IntSlice []int
 
 func (s IntSlice) Len() int {
