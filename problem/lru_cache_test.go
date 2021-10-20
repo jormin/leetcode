@@ -10,6 +10,7 @@ func TestLRUCache(t *testing.T) {
 	l := Constructor(2)
 	l.Put(1, 1)
 	l.Put(2, 2)
+	l.Put(2, 3)
 	got := l.Get(1)
 	if got != 1 {
 		t.Errorf("get key error, got%v, want %v", got, 1)
