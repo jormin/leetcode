@@ -775,7 +775,7 @@ LeetCode 学习 项目
 
 - [ ] [382. 链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node)
 
-- [ ] [383. 赎金信](https://leetcode-cn.com/problems/ransom-note)
+- [x] [383. 赎金信](https://leetcode-cn.com/problems/ransom-note)
 
 - [ ] [384. 打乱数组](https://leetcode-cn.com/problems/shuffle-an-array)
 
