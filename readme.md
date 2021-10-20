@@ -3940,3 +3940,8 @@ LeetCode 学习 项目
 - [ ] [面试题 17.25. 单词矩阵](https://leetcode-cn.com/problems/word-rectangle-lcci)
 
 - [ ] [面试题 17.26. 稀疏相似度](https://leetcode-cn.com/problems/sparse-similarity-lcci)
+
+License
+-------
+
+under the [MIT](./LICENSE) License% 
