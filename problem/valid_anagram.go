@@ -10,7 +10,7 @@ package problem
 // 示例 2:
 // 输入: s = "rat", t = "car"
 // 输出: false
-// 
+//
 // 提示:
 // 1 <= s.length, t.length <= 5 * 104
 // s 和 t仅包含小写字母
