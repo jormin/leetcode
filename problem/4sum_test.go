@@ -55,6 +55,32 @@ func TestFourSum(t *testing.T) {
 				{-1, 0, 0, 1},
 			},
 		},
+		{
+			name: "04",
+			args: args{
+				nums:   []int{2},
+				target: 8,
+			},
+			want: nil,
+		},
+		{
+			name: "05",
+			args: args{
+				nums:   []int{-3, -2, -1, 0, 0, 1, 2, 2, 3},
+				target: 0,
+			},
+			want: [][]int{
+				{-3, -2, 2, 3},
+				{-3, -1, 1, 3},
+				{-3, -1, 2, 2},
+				{-3, 0, 0, 3},
+				{-3, 0, 1, 2},
+				{-2, -1, 0, 3},
+				{-2, -1, 1, 2},
+				{-2, 0, 0, 2},
+				{-1, 0, 0, 1},
+			},
+		},
 	}
 	for _, tt := range tests {
 		t.Run(
