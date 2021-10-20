@@ -3944,4 +3944,4 @@ LeetCode 学习 项目
 License
 -------
 
-under the [MIT](./LICENSE) License% 
+under the [MIT](./LICENSE) License.
