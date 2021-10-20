@@ -57,6 +57,11 @@ func TestGenerateParenthesis(t *testing.T) {
 			args: args{n: 1},
 			want: []string{"()"},
 		},
+		{
+			name: "02",
+			args: args{n: 0},
+			want: nil,
+		},
 	}
 	for _, tt := range tests {
 		t.Run(
