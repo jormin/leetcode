@@ -19,7 +19,7 @@ func TestMergeKLists(t *testing.T) {
 			name: "01",
 			args: args{
 				lists: []*ListNode{
-					&ListNode{
+					{
 						Val: 1,
 						Next: &ListNode{
 							Val: 4,
@@ -29,7 +29,7 @@ func TestMergeKLists(t *testing.T) {
 							},
 						},
 					},
-					&ListNode{
+					{
 						Val: 1,
 						Next: &ListNode{
 							Val: 3,
@@ -39,7 +39,7 @@ func TestMergeKLists(t *testing.T) {
 							},
 						},
 					},
-					&ListNode{
+					{
 						Val: 2,
 						Next: &ListNode{
 							Val:  6,
