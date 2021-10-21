@@ -415,7 +415,7 @@ LeetCode 学习 项目
 
 - [ ] [202. 快乐数](https://leetcode-cn.com/problems/happy-number)
 
-- [ ] [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements)
+- [x] [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements)
 
 - [ ] [204. 计数质数](https://leetcode-cn.com/problems/count-primes)
 
