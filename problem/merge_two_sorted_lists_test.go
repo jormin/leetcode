@@ -82,6 +82,20 @@ func TestMergeTwoLists(t *testing.T) {
 				Next: nil,
 			},
 		},
+		{
+			name: "04",
+			args: args{
+				l1: &ListNode{
+					Val:  0,
+					Next: nil,
+				},
+				l2: nil,
+			},
+			want: &ListNode{
+				Val:  0,
+				Next: nil,
+			},
+		},
 	}
 	for _, tt := range tests {
 		t.Run(
