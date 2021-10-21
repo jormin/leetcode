@@ -291,7 +291,7 @@ LeetCode 学习 项目
 
 - [ ] [140. 单词拆分 II](https://leetcode-cn.com/problems/word-break-ii)
 
-- [ ] [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle)
+- [x] [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle)
 
 - [ ] [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii)
 
