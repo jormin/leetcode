@@ -1417,7 +1417,7 @@ LeetCode 学习 项目
 
 - [ ] [703. 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream)
 
-- [ ] [704. 二分查找](https://leetcode-cn.com/problems/binary-search)
+- [x] [704. 二分查找](https://leetcode-cn.com/problems/binary-search)
 
 - [ ] [705. 设计哈希集合](https://leetcode-cn.com/problems/design-hashset)
 
