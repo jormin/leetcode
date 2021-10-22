@@ -79,7 +79,7 @@ LeetCode 学习 项目
 
 - [ ] [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array)
 
-- [ ] [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position)
+- [x] [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position)
 
 - [x] [36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku)
 
