@@ -421,7 +421,7 @@ LeetCode 学习 项目
 
 - [ ] [205. 同构字符串](https://leetcode-cn.com/problems/isomorphic-strings)
 
-- [ ] [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list)
+- [x] [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list)
 
 - [ ] [207. 课程表](https://leetcode-cn.com/problems/course-schedule)
 
