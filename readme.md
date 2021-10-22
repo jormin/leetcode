@@ -565,7 +565,7 @@ LeetCode 学习 项目
 
 - [ ] [277. 搜寻名人](https://leetcode-cn.com/problems/find-the-celebrity)
 
-- [ ] [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version)
+- [x] [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version)
 
 - [ ] [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares)
 
