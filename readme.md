@@ -575,7 +575,7 @@ LeetCode 学习 项目
 
 - [ ] [282. 给表达式添加运算符](https://leetcode-cn.com/problems/expression-add-operators)
 
-- [ ] [283. 移动零](https://leetcode-cn.com/problems/move-zeroes)
+- [x] [283. 移动零](https://leetcode-cn.com/problems/move-zeroes)
 
 - [ ] [284. 顶端迭代器](https://leetcode-cn.com/problems/peeking-iterator)
 
