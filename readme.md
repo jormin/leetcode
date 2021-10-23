@@ -1963,7 +1963,7 @@ LeetCode 学习 项目
 
 - [ ] [976. 三角形的最大周长](https://leetcode-cn.com/problems/largest-perimeter-triangle)
 
-- [ ] [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array)
+- [x] [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array)
 
 - [ ] [978. 最长湍流子数组](https://leetcode-cn.com/problems/longest-turbulent-subarray)
 
