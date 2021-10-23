@@ -343,7 +343,7 @@ LeetCode 学习 项目
 
 - [ ] [166. 分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal)
 
-- [ ] [167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)
+- [x] [167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)
 
 - [ ] [168. Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title)
 
