@@ -473,7 +473,7 @@ LeetCode 学习 项目
 
 - [ ] [231. 2的幂](https://leetcode-cn.com/problems/power-of-two)
 
-- [ ] [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks)
+- [x] [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks)
 
 - [ ] [233. 数字 1 的个数](https://leetcode-cn.com/problems/number-of-digit-one)
 
