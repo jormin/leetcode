@@ -1123,7 +1123,7 @@ LeetCode 学习 项目
 
 - [ ] [556. 下一个更大元素 III](https://leetcode-cn.com/problems/next-greater-element-iii)
 
-- [ ] [557. 反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii)
+- [x] [557. 反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii)
 
 - [ ] [558. 四叉树交集](https://leetcode-cn.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees)
 
