@@ -211,7 +211,7 @@ LeetCode 学习 项目
 
 - [ ] [100. 相同的树](https://leetcode-cn.com/problems/same-tree)
 
-- [ ] [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree)
+- [x] [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree)
 
 - [x] [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal)
 
