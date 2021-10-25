@@ -213,7 +213,7 @@ LeetCode 学习 项目
 
 - [ ] [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree)
 
-- [ ] [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal)
+- [x] [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal)
 
 - [ ] [103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal)
 
