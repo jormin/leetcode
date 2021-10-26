@@ -461,7 +461,7 @@ LeetCode 学习 项目
 
 - [ ] [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues)
 
-- [ ] [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree)
+- [x] [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree)
 
 - [ ] [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii)
 
