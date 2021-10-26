@@ -1,10 +1,5 @@
 package problem
 
-import (
-	"fmt"
-	"strings"
-)
-
 // 给你一个链表，删除链表的倒数第n个结点，并且返回链表的头结点。
 // 进阶：你能尝试使用一趟扫描实现吗？
 //
@@ -36,34 +31,23 @@ type ListNode struct {
 	Next *ListNode
 }
 
-// String 字符串
-func (l *ListNode) String() string {
-	var arr []string
-	for ; l != nil; l = l.Next {
-		arr = append(arr, fmt.Sprintf("%d", l.Val))
-	}
-	return strings.Join(arr, ",")
-}
-
 // removeNthFromEnd 删除链表的倒数第N个结点
 func removeNthFromEnd(head *ListNode, n int) *ListNode {
-	l := getLength(head)
-	var node = &ListNode{
+	if head == nil {
+		return nil
+	}
+	tmp := &ListNode{
 		Val:  0,
 		Next: head,
 	}
-	cur := node
-	for i := 0; i < l-n; i++ {
-		cur = cur.Next
+	fast, slow := head, tmp
+	for i := 0; i < n; i++ {
+		fast = fast.Next
 	}
-	cur.Next = cur.Next.Next
-	return node.Next
-}
-
-// getLength 获取链表的长度
-func getLength(head *ListNode) (length int) {
-	for ; head != nil; head = head.Next {
-		length++
+	for fast != nil {
+		fast = fast.Next
+		slow = slow.Next
 	}
-	return length
+	slow.Next = slow.Next.Next
+	return tmp.Next
 }
