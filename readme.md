@@ -233,7 +233,7 @@ LeetCode 学习 项目
 
 - [ ] [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree)
 
-- [ ] [112. 路径总和](https://leetcode-cn.com/problems/path-sum)
+- [x] [112. 路径总和](https://leetcode-cn.com/problems/path-sum)
 
 - [ ] [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii)
 
