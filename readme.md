@@ -1143,7 +1143,7 @@ LeetCode 学习 项目
 
 - [x] [566. 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix)
 
-- [ ] [567. 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string)
+- [x] [567. 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string)
 
 - [ ] [568. 最大休假天数](https://leetcode-cn.com/problems/maximum-vacation-days)
 
