@@ -1409,7 +1409,7 @@ LeetCode 学习 项目
 
 - [ ] [699. 掉落的方块](https://leetcode-cn.com/problems/falling-squares)
 
-- [ ] [700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree)
+- [x] [700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree)
 
 - [ ] [701. 二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree)
 
