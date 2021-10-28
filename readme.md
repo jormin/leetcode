@@ -1399,7 +1399,7 @@ LeetCode 学习 项目
 
 - [ ] [694. 不同岛屿的数量](https://leetcode-cn.com/problems/number-of-distinct-islands)
 
-- [ ] [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island)
+- [x] [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island)
 
 - [ ] [696. 计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings)
 
