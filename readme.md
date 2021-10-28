@@ -1315,7 +1315,7 @@ LeetCode 学习 项目
 
 - [ ] [652. 寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees)
 
-- [ ] [653. 两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst)
+- [x] [653. 两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst)
 
 - [ ] [654. 最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree)
 
