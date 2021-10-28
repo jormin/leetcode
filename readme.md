@@ -477,7 +477,7 @@ LeetCode 学习 项目
 
 - [ ] [233. 数字 1 的个数](https://leetcode-cn.com/problems/number-of-digit-one)
 
-- [ ] [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list)
+- [ ] [234. 回文链表][]
 
 - [x] [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
 
@@ -1475,7 +1475,7 @@ LeetCode 学习 项目
 
 - [ ] [732. 我的日程安排表 III](https://leetcode-cn.com/problems/my-calendar-iii)
 
-- [ ] [733. 图像渲染](https://leetcode-cn.com/problems/flood-fill)
+- [x] [733. 图像渲染](https://leetcode-cn.com/problems/flood-fill)
 
 - [ ] [734. 句子相似性](https://leetcode-cn.com/problems/sentence-similarity)
 
@@ -3945,3 +3945,5 @@ License
 -------
 
 under the [MIT](./LICENSE) License.
+
+[]: https://leetcode-cn.com/problems/palindrome-linked-list
