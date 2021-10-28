@@ -205,7 +205,7 @@ LeetCode 学习 项目
 
 - [ ] [97. 交错字符串](https://leetcode-cn.com/problems/interleaving-string)
 
-- [ ] [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree)
+- [x] [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree)
 
 - [ ] [99. 恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree)
 
