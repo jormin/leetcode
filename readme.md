@@ -479,7 +479,7 @@ LeetCode 学习 项目
 
 - [ ] [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list)
 
-- [ ] [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
+- [x] [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
 
 - [ ] [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree)
 
