@@ -241,7 +241,7 @@ LeetCode 学习 项目
 
 - [ ] [115. 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences)
 
-- [ ] [116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node)
+- [x] [116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node)
 
 - [ ] [117. 填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii)
 
