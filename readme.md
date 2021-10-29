@@ -1243,7 +1243,7 @@ LeetCode 学习 项目
 
 - [ ] [616. 给字符串添加加粗标签](https://leetcode-cn.com/problems/add-bold-tag-in-string)
 
-- [ ] [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees)
+- [x] [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees)
 
 - [ ] [618. 学生地理信息报告](https://leetcode-cn.com/problems/students-report-by-geography)
 
