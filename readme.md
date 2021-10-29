@@ -281,7 +281,7 @@ LeetCode 学习 项目
 
 - [ ] [135. 分发糖果](https://leetcode-cn.com/problems/candy)
 
-- [ ] [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number)
+- [x] [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number)
 
 - [ ] [137. 只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii)
 
