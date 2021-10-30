@@ -1421,7 +1421,7 @@ LeetCode 学习 项目
 
 - [ ] [705. 设计哈希集合](https://leetcode-cn.com/problems/design-hashset)
 
-- [ ] [706. 设计哈希映射](https://leetcode-cn.com/problems/design-hashmap)
+- [x] [706. 设计哈希映射](https://leetcode-cn.com/problems/design-hashmap)
 
 - [ ] [707. 设计链表](https://leetcode-cn.com/problems/design-linked-list)
 
