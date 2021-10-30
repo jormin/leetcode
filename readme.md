@@ -121,7 +121,7 @@ LeetCode 学习 项目
 
 - [ ] [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game)
 
-- [ ] [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals)
+- [x] [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals)
 
 - [ ] [57. 插入区间](https://leetcode-cn.com/problems/insert-interval)
 
