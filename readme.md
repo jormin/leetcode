@@ -1995,7 +1995,7 @@ LeetCode 学习 项目
 
 - [ ] [993. 二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree)
 
-- [ ] [994. 腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges)
+- [x] [994. 腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges)
 
 - [ ] [995. K 连续位的最小翻转次数](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips)
 
