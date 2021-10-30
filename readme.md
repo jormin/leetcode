@@ -1093,7 +1093,7 @@ LeetCode 学习 项目
 
 - [ ] [541. 反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii)
 
-- [ ] [542. 01 矩阵](https://leetcode-cn.com/problems/01-matrix)
+- [x] [542. 01 矩阵](https://leetcode-cn.com/problems/01-matrix)
 
 - [ ] [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree)
 
