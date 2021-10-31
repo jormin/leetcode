@@ -105,7 +105,7 @@ LeetCode 学习 项目
 
 - [ ] [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii)
 
-- [ ] [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image)
+- [x] [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image)
 
 - [ ] [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams)
 
