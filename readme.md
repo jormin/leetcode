@@ -127,7 +127,7 @@ LeetCode 学习 项目
 
 - [ ] [58. 最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word)
 
-- [ ] [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii)
+- [x] [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii)
 
 - [ ] [60. 排列序列](https://leetcode-cn.com/problems/permutation-sequence)
 
