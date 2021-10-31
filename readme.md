@@ -247,7 +247,7 @@ LeetCode 学习 项目
 
 - [x] [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle)
 
-- [ ] [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii)
+- [x] [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii)
 
 - [ ] [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle)
 
