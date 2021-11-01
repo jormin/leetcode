@@ -1577,7 +1577,7 @@ LeetCode 学习 项目
 
 - [ ] [783. 二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes)
 
-- [ ] [784. 字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation)
+- [x] [784. 字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation)
 
 - [ ] [785. 判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite)
 
