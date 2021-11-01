@@ -163,7 +163,7 @@ LeetCode 学习 项目
 
 - [ ] [76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring)
 
-- [ ] [77. 组合](https://leetcode-cn.com/problems/combinations)
+- [x] [77. 组合](https://leetcode-cn.com/problems/combinations)
 
 - [ ] [78. 子集](https://leetcode-cn.com/problems/subsets)
 
