@@ -879,7 +879,7 @@ LeetCode 学习 项目
 
 - [ ] [434. 字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string)
 
-- [ ] [435. 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals)
+- [x] [435. 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals)
 
 - [ ] [436. 寻找右区间](https://leetcode-cn.com/problems/find-right-interval)
 
