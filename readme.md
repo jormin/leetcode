@@ -489,7 +489,7 @@ LeetCode 学习 项目
 
 - [ ] [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum)
 
-- [ ] [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii)
+- [x] [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii)
 
 - [ ] [241. 为运算表达式设计优先级](https://leetcode-cn.com/problems/different-ways-to-add-parentheses)
 
