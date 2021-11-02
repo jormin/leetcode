@@ -485,7 +485,7 @@ LeetCode 学习 项目
 
 - [ ] [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list)
 
-- [ ] [238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self)
+- [x] [238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self)
 
 - [ ] [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum)
 
