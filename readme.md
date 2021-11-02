@@ -249,7 +249,7 @@ LeetCode 学习 项目
 
 - [x] [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii)
 
-- [ ] [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle)
+- [x] [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle)
 
 - [x] [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)
 
