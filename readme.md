@@ -677,7 +677,7 @@ LeetCode 学习 项目
 
 - [ ] [333. 最大 BST 子树](https://leetcode-cn.com/problems/largest-bst-subtree)
 
-- [ ] [334. 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence)
+- [x] [334. 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence)
 
 - [ ] [335. 路径交叉](https://leetcode-cn.com/problems/self-crossing)
 
