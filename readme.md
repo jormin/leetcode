@@ -1129,7 +1129,7 @@ LeetCode 学习 项目
 
 - [ ] [559. N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree)
 
-- [ ] [560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k)
+- [x] [560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k)
 
 - [ ] [561. 数组拆分 I](https://leetcode-cn.com/problems/array-partition-i)
 
