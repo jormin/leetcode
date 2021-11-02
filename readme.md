@@ -149,7 +149,7 @@ LeetCode 学习 项目
 
 - [ ] [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx)
 
-- [ ] [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs)
+- [x] [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs)
 
 - [ ] [71. 简化路径](https://leetcode-cn.com/problems/simplify-path)
 
