@@ -405,7 +405,7 @@ LeetCode 学习 项目
 
 - [ ] [197. 上升的温度](https://leetcode-cn.com/problems/rising-temperature)
 
-- [ ] [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber)
+- [x] [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber)
 
 - [ ] [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view)
 
