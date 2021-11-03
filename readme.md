@@ -391,7 +391,7 @@ LeetCode 学习 项目
 
 - [ ] [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits)
 
-- [ ] [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits)
+- [x] [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits)
 
 - [ ] [192. 统计词频](https://leetcode-cn.com/problems/word-frequency)
 
