@@ -839,7 +839,7 @@ LeetCode 学习 项目
 
 - [ ] [414. 第三大的数](https://leetcode-cn.com/problems/third-maximum-number)
 
-- [ ] [415. 字符串相加](https://leetcode-cn.com/problems/add-strings)
+- [x] [415. 字符串相加](https://leetcode-cn.com/problems/add-strings)
 
 - [ ] [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum)
 
