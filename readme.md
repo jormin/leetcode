@@ -471,7 +471,7 @@ LeetCode 学习 项目
 
 - [ ] [230. 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst)
 
-- [ ] [231. 2的幂](https://leetcode-cn.com/problems/power-of-two)
+- [x] [231. 2的幂](https://leetcode-cn.com/problems/power-of-two)
 
 - [x] [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks)
 
