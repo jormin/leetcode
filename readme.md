@@ -827,7 +827,7 @@ LeetCode 学习 项目
 
 - [ ] [408. 有效单词缩写](https://leetcode-cn.com/problems/valid-word-abbreviation)
 
-- [ ] [409. 最长回文串](https://leetcode-cn.com/problems/longest-palindrome)
+- [x] [409. 最长回文串](https://leetcode-cn.com/problems/longest-palindrome)
 
 - [ ] [410. 分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum)
 
