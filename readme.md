@@ -389,7 +389,7 @@ LeetCode 学习 项目
 
 - [x] [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array)
 
-- [ ] [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits)
+- [x] [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits)
 
 - [x] [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits)
 
