@@ -1535,7 +1535,7 @@ LeetCode 学习 项目
 
 - [ ] [762. 二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation)
 
-- [ ] [763. 划分字母区间](https://leetcode-cn.com/problems/partition-labels)
+- [x] [763. 划分字母区间](https://leetcode-cn.com/problems/partition-labels)
 
 - [ ] [764. 最大加号标志](https://leetcode-cn.com/problems/largest-plus-sign)
 
